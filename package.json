@@ -1,0 +1,23 @@
+{
+  "name": "projekt-gites",
+  "version": "1.0.0",
+  "description": "first-grunt-project",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9chris5/repozytorium1.git"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9chris5/repozytorium1/issues"
+  },
+  "homepage": "https://github.com/9chris5/repozytorium1#readme"
+}
