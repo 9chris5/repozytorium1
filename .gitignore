@@ -1,7 +1,4 @@
 node_modules/
 css
-images
-news.html
-style.css
-package.json
-package-lock.json
+images/build
+*.css
