@@ -10,7 +10,6 @@ module.exports = function(grunt) {
 				files: {
 					'css/main.css': 'sass/main.sass'
 				}
-				A
 			}
 		},
 
